@@ -1,0 +1,11 @@
+﻿{
+  "Query": "SELECT Id, Title FROM ExampleTable",
+  "Fields": [
+    "Id",
+    "Title"
+  ],
+  "ConnectionStrings": [
+    "Server=.;Database=Example1;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "Server=.;Database=Example2;Trusted_Connection=True;MultipleActiveResultSets=true"
+  ]
+}
