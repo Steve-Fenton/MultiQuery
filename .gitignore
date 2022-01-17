@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Fenton.MultiQuery/bin
+/Fenton.MultiQuery/obj/Debug/net6.0
+/Fenton.MultiQuery/obj/Release/net6.0
+/Fenton.MultiQuery/obj
+/mq/bin/Debug/net6.0
+/mq/bin/Release/net6.0
+/mq/obj

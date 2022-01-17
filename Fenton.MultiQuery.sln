@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fenton.MultiQuery", "Fenton.MultiQuery\Fenton.MultiQuery.csproj", "{8828F1E9-C36B-4C7A-8876-255B0C1C0B0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fenton.MultiQuery", "Fenton.MultiQuery\Fenton.MultiQuery.csproj", "{8828F1E9-C36B-4C7A-8876-255B0C1C0B0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mq", "mq\mq.csproj", "{11FADEC6-4D35-45D9-9B73-629725EEDBDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mq", "mq\mq.csproj", "{11FADEC6-4D35-45D9-9B73-629725EEDBDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub", "GitHub", "{E5A8187E-56B3-4D76-BDB7-BC3D0AE26C6F}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
