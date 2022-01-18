@@ -52,7 +52,7 @@ the `s` drive on a server.
 
 ## Tips
 
-### Least Privalege
+### Least Privilege
 
 Use a SQL account with limited permissions (i.e. read only access to non-sensitive data) to ensure the tool is not used to 
 export personal information, sensitive data, or change the data in the database.
